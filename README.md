@@ -5,9 +5,9 @@ This is a simple project in order to prepare a simple test runner for a few basi
 
 There is unit tests for the following library functions:
 
-> sumBetweenNumbers
-> returnLenghtOfString
-> generateRandomNumberBetweenZeroAndTen
-> generateRandomNumberBetweenZeroAndOneHundred
-> generateRandomNumberBetweenZeroAndArgument
-> checkStringIsPalindrome
+##### sumBetweenNumbers
+##### returnLenghtOfString
+##### generateRandomNumberBetweenZeroAndTen
+##### generateRandomNumberBetweenZeroAndOneHundred
+##### generateRandomNumberBetweenZeroAndArgument
+##### checkStringIsPalindrome
